@@ -3,9 +3,10 @@
 Web geliştirme, front-end ve back-end teknolojileri ile uğraşıyorum. HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, C#, Java, SQL ve Next.js konularında bilgiliyim.
 
 <img src="<p align="center">
-  <img src="assets/catgirl.gif" alt="banner" />
+  <img src="<p align="center">
+  <img src="https://github.com/eylulkk/eylulkk/blob/main/Cat%20Girl%20GIF%20by%20Pluralsight.gif?raw=true" alt="banner gif" />
 </p>
-" alt="banner" />
+
 
 ## 🛠️ Diller ve Teknolojiler
 
