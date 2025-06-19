@@ -2,7 +2,10 @@
 
 Web geliştirme, front-end ve back-end teknolojileri ile uğraşıyorum. HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, C#, Java, SQL ve Next.js konularında bilgiliyim.
 
-<img src="C:\Users\MONSTER\Downloads\Cat Girl GIF by Pluralsight.gif" alt="banner" />
+<img src="<p align="center">
+  <img src="assets/catgirl.gif" alt="banner" />
+</p>
+" alt="banner" />
 
 ## 🛠️ Diller ve Teknolojiler
 
