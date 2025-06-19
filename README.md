@@ -2,7 +2,7 @@
 
 Web geliştirme, front-end ve back-end teknolojileri ile uğraşıyorum. HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, C#, Java, SQL ve Next.js konularında bilgiliyim.
 
-<img src="https://raw.githubusercontent.com/berfinkucuk01/berfinkucuk01/main/assets/banner.png" alt="banner" />
+<img src="C:\Users\MONSTER\Downloads\Cat Girl GIF by Pluralsight.gif" alt="banner" />
 
 ## 🛠️ Diller ve Teknolojiler
 
